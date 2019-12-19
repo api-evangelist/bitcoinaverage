@@ -1,0 +1,46 @@
+{
+    "name": "BitcoinAverage",
+    "description": "Leading Bitcoin and Cryptocurrency Price Data Provider",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/26444-bitcoinaverage.jpg",
+    "tags": [
+        "api provider",
+        "blockchain",
+        "have api",
+        "marketplaces"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bitcoinaverage\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "BitcoinAverage",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/26444-bitcoinaverage.jpg",
+            "humanURL": "https:\/\/bitcoinaverage.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/bitcoinaverage-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/bitcoinaverage\/current_employees\/current_employees_image_list"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/BitcoinAverage"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/bitcoinaverage.com"
+        }
+    ]
+}
