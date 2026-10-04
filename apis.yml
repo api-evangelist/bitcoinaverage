@@ -39,7 +39,6 @@ apis:
   - name: BitcoinAverage
     description: "Digital Asset Price Data for the blockchain industry"
     humanURL: https://apiv2.bitcoinaverage.com/
-    baseURL: https://apiv2.bitcoinaverage.com/
     tags:
       - Cryptocurrency
     properties:
